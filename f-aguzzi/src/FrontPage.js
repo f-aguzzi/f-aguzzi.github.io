@@ -4,7 +4,8 @@ export default function FrontPage () {
 
     return (
         <div>
-            <h1 className="display">Federico Aguzzi</h1>
+            <h1>Federico Aguzzi</h1>
+            
         </div>
     )
 }
