@@ -1,6 +1,6 @@
 body {
-    background: #222;
-    color: #ddd;
+    background: #eee;
+    color: #222;
 }
 
 .container {
@@ -15,11 +15,13 @@ h1 {
     font-size: xx-large;
     font-family: Helvetica, Arial, sans-serif;
     margin: 3rem;
+    color: rgb(38, 218, 173);
+    ;
 }
 
 blockquote {
     margin-right: 3rem;
     margin-left: 3rem;
     font-family: 'Courier New', Courier, monospace;
-    color: #ccc;
+    color: rgb(61, 61, 61);
 }
